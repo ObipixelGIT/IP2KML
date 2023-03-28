@@ -1,5 +1,5 @@
 # IP2KML
-IP Address to Google Earth KML file
+IP Address to Google Earth KML file for Footprinting
 
 ## How this script works?
 

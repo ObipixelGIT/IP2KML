@@ -15,7 +15,20 @@ IP Address to Google Earth KML file
 pip3 install requests, simplekml
 ```
 
-## What the code looks like?
+## Usage
+
+Ensure you give the script permissions to execute. Do the following from the terminal:
+```bash
+sudo chmod +x ip2kml.py
+```
+
+Now you can run the script as follows in the terminal:
+
+```python
+python3 ip2kml.py
+```
+
+## Example script
 
 ```python
 import requests

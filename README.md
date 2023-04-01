@@ -7,6 +7,7 @@ IP Address to Google Earth KML file for Footprinting
 - Sends the IP Address user input to ip-api.com as a JSON string.
 - ip-api.com gets the JSON string of the IP Address and finds the Longitude and Latitude of the IP Address.
 - Then the script creates a KML file, which you can use on Google Earth, to view the location of the IP Address plotted on a map.
+- A simple IP Address locator and OSINT tool.
 
 
 ## Requirements
